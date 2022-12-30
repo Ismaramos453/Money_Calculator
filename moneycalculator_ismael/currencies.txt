@@ -1,0 +1,15 @@
+EUR, Euro, €
+ARS, Argentine Peso, $
+AUD, Australian Dollar, $
+BRL, Brazilian Real, R$
+CAD, Canadian Dollar, C$
+CNY, Yuan Renminbi, ¥
+GBP, Pound Sterling, £
+INR, Indian Rupee, ₹
+JPY, Yen, ¥
+MAD, Moroccan Dirham, درهم 
+MXN, Mexican Peso, $
+RUB, Russian Ruble, ₽
+SAR, Saudi Riyal, ر.س
+USD, US Dollar, $
+ZAR, Rand, R
