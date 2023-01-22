@@ -1,4 +1,4 @@
-package moneycalculator_v20220913.persistence.files;
+package moneycalculator.persistence.files;
 
 import java.io.BufferedReader;
 import java.io.IOException;

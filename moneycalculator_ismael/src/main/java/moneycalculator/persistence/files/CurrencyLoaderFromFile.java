@@ -1,7 +1,7 @@
-package moneycalculator_v20220913.persistence.files;
+package moneycalculator.persistence.files;
 
-import moneycalculator_v20220913.model.Currency;
-import moneycalculator_v20220913.persistence.CurrencyLoader;
+import moneycalculator.model.Currency;
+import moneycalculator.persistence.CurrencyLoader;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;

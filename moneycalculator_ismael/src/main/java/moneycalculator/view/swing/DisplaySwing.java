@@ -1,11 +1,11 @@
-package moneycalculator_v20220913.view.swing;
+package moneycalculator.view.swing;
 
 import java.awt.BorderLayout;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
-import moneycalculator_v20220913.model.Money;
-import moneycalculator_v20220913.view.Display;
+import moneycalculator.model.Money;
+import moneycalculator.view.Display;
 
 public class DisplaySwing extends JPanel implements Display {
     private JTextArea display;

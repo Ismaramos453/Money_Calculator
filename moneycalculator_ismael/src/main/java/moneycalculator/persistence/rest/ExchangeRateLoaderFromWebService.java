@@ -1,8 +1,8 @@
-package moneycalculator_v20220913.persistence.rest;
+package moneycalculator.persistence.rest;
 
-import moneycalculator_v20220913.model.Currency;
-import moneycalculator_v20220913.model.ExchangeRate;
-import moneycalculator_v20220913.persistence.ExchangeRateLoader;
+import moneycalculator.model.Currency;
+import moneycalculator.model.ExchangeRate;
+import moneycalculator.persistence.ExchangeRateLoader;
 
 import java.io.IOException;
 import java.io.InputStream;

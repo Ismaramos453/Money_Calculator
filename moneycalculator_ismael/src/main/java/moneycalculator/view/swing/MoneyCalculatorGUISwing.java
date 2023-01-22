@@ -1,4 +1,4 @@
-package moneycalculator_v20220913.view.swing;
+package moneycalculator.view.swing;
 
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;

@@ -1,6 +1,6 @@
-package moneycalculator_v20220913.persistence;
+package moneycalculator.persistence;
 
-import moneycalculator_v20220913.model.Currency;
+import moneycalculator.model.Currency;
 
 import java.util.List;
 

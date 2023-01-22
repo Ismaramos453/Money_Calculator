@@ -1,13 +1,13 @@
-package moneycalculator_v20220913.control;
+package moneycalculator.control;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import moneycalculator_v20220913.model.Currency;
-import moneycalculator_v20220913.model.ExchangeRate;
-import moneycalculator_v20220913.model.Money;
-import moneycalculator_v20220913.persistence.rest.ExchangeRateLoaderFromWebService;
-import moneycalculator_v20220913.view.swing.DialogSwing;
-import moneycalculator_v20220913.view.swing.DisplaySwing;
+import moneycalculator.model.Currency;
+import moneycalculator.model.ExchangeRate;
+import moneycalculator.model.Money;
+import moneycalculator.persistence.rest.ExchangeRateLoaderFromWebService;
+import moneycalculator.view.swing.DialogSwing;
+import moneycalculator.view.swing.DisplaySwing;
 
 public class MCController implements ActionListener {
     private final DialogSwing dialogSwing;

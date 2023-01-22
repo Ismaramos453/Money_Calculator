@@ -1,4 +1,4 @@
-package moneycalculator_v20220913.view.swing;
+package moneycalculator.view.swing;
 
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
@@ -10,10 +10,10 @@ import javax.swing.JComboBox;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
-import moneycalculator_v20220913.control.MCController;
-import moneycalculator_v20220913.model.Currency;
-import moneycalculator_v20220913.model.Money;
-import moneycalculator_v20220913.view.Dialog;
+import moneycalculator.control.MCController;
+import moneycalculator.model.Currency;
+import moneycalculator.model.Money;
+import moneycalculator.view.Dialog;
 
 public class DialogSwing extends JPanel implements Dialog {
     private final String CALCULATE_BUTTON_LABEL = "calculate";

@@ -1,15 +1,15 @@
-package moneycalculator_v20220913;
+package moneycalculator;
 
 import java.util.List;
 import javax.swing.SwingUtilities;
-import moneycalculator_v20220913.control.MCController;
-import moneycalculator_v20220913.model.Currency;
-import moneycalculator_v20220913.model.Money;
-import moneycalculator_v20220913.persistence.files.CurrencyLoaderFromFile;
-import moneycalculator_v20220913.persistence.rest.ExchangeRateLoaderFromWebService;
-import moneycalculator_v20220913.view.swing.DialogSwing;
-import moneycalculator_v20220913.view.swing.DisplaySwing;
-import moneycalculator_v20220913.view.swing.MoneyCalculatorGUISwing;
+import moneycalculator.control.MCController;
+import moneycalculator.model.Currency;
+import moneycalculator.model.Money;
+import moneycalculator.persistence.files.CurrencyLoaderFromFile;
+import moneycalculator.persistence.rest.ExchangeRateLoaderFromWebService;
+import moneycalculator.view.swing.DialogSwing;
+import moneycalculator.view.swing.DisplaySwing;
+import moneycalculator.view.swing.MoneyCalculatorGUISwing;
 
 public class MoneyCalculator_v20220913 {
 
